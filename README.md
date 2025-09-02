@@ -1,12 +1,18 @@
 # test-mcp
 
 ## Description
-This is a test repository for Model Context Protocol (MCP) integration testing and development.
+This is a test repository for Model Context Protocol (MCP) integration and experimentation.
 
 ## Purpose
-This repository serves as a sandbox environment for testing MCP server functionality, GitHub API integrations, and automated workflows.
+This repository serves as a testing ground for MCP-related features and GitHub integration capabilities.
 
-## Installation
+## Getting Started
+
+### Prerequisites
+- Node.js (version 14 or higher)
+- npm or yarn package manager
+
+### Installation
 ```bash
 # Clone the repository
 git clone https://github.com/msftairaamane/test-mcp.git
@@ -14,29 +20,26 @@ git clone https://github.com/msftairaamane/test-mcp.git
 # Navigate to the project directory
 cd test-mcp
 
-# Install dependencies (if applicable)
+# Install dependencies (when available)
 npm install
 ```
 
-## Usage
-This repository is primarily used for testing MCP integrations with GitHub. You can use it to:
-- Test GitHub API operations
-- Validate MCP server configurations
-- Experiment with automated PR creation and issue management
+### Usage
+This repository is currently in initial setup phase. More usage instructions will be added as the project develops.
 
-## Getting Started
-1. Clone this repository
-2. Configure your MCP server with appropriate GitHub credentials
-3. Test various GitHub operations through your MCP integration
-
-## Status
-🚧 **Under Development** - This repository is actively being used for testing purposes.
+## Features
+- MCP integration testing
+- GitHub API interaction examples
+- Demonstration of automated PR creation
 
 ## Contributing
-Feel free to open issues or pull requests if you're testing MCP integrations.
+Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
-This project is for testing purposes only.
+This project is for testing purposes.
 
----
-*Repository created for MCP integration testing*
+## Status
+🚧 **Under Development** - This repository is actively being set up and configured.
+
+## Contact
+Repository maintained by [@msftairaamane](https://github.com/msftairaamane)
