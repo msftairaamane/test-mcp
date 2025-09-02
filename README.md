@@ -1,58 +1,42 @@
 # test-mcp
 
 ## Description
-A test repository for experimenting with GitHub MCP (Model Context Protocol) integration. This repository demonstrates the capabilities of automated GitHub operations through MCP-enabled AI assistants.
+This is a test repository for Model Context Protocol (MCP) integration testing and development.
 
 ## Purpose
-This repository serves as a testing ground for:
-- MCP server connectivity and authentication
-- Automated issue management
-- Pull request creation and management
-- General GitHub API operations through MCP
+This repository serves as a sandbox environment for testing MCP server functionality, GitHub API integrations, and automated workflows.
+
+## Installation
+```bash
+# Clone the repository
+git clone https://github.com/msftairaamane/test-mcp.git
+
+# Navigate to the project directory
+cd test-mcp
+
+# Install dependencies (if applicable)
+npm install
+```
+
+## Usage
+This repository is primarily used for testing MCP integrations with GitHub. You can use it to:
+- Test GitHub API operations
+- Validate MCP server configurations
+- Experiment with automated PR creation and issue management
 
 ## Getting Started
-
-### Prerequisites
-- GitHub account with appropriate permissions
-- MCP-enabled client (e.g., Claude Code, Claude Desktop)
-- GitHub Personal Access Token (PAT) for authentication
-
-### Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/msftairaamane/test-mcp.git
-   cd test-mcp
-   ```
-
-2. Configure your MCP client with GitHub integration
-3. Ensure your PAT has the necessary permissions for repository operations
-
-## Usage Examples
-
-### Basic Operations
-- List repository issues
-- Create and manage pull requests
-- Update repository content
-- Manage branches and commits
-
-### MCP Integration
-This repository is designed to work with MCP-enabled AI assistants that can:
-- Automatically respond to issues
-- Create pull requests to fix reported problems
-- Manage repository documentation
-- Perform automated code reviews
-
-## Contributing
-Feel free to open issues or submit pull requests to test the MCP integration capabilities.
+1. Clone this repository
+2. Configure your MCP server with appropriate GitHub credentials
+3. Test various GitHub operations through your MCP integration
 
 ## Status
-🟢 Active - Repository is actively used for MCP testing
+🚧 **Under Development** - This repository is actively being used for testing purposes.
+
+## Contributing
+Feel free to open issues or pull requests if you're testing MCP integrations.
 
 ## License
-This is a test repository for experimental purposes.
-
-## Author
-- [@msftairaamane](https://github.com/msftairaamane)
+This project is for testing purposes only.
 
 ---
-*This README was automatically generated to resolve [Issue #1](https://github.com/msftairaamane/test-mcp/issues/1)*
+*Repository created for MCP integration testing*
